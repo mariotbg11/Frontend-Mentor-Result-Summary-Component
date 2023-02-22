@@ -15,11 +15,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Screenshot
 
-- Desktop Version
 ![FireShot Capture 049 - Frontend Mentor - Results summary component_ - deft-bavarois-e458bc netlify app](https://user-images.githubusercontent.com/106422023/220606573-8f8b7822-b313-44e3-b4cc-c0dbb08bc8a9.png)
-- Hover State
 ![FireShot Capture 051 - Frontend Mentor - Results summary component_ - deft-bavarois-e458bc netlify app](https://user-images.githubusercontent.com/106422023/220606629-924f8da7-27e3-4c33-82dc-153879324b38.png)
-- Mobile Version
 ![FireShot Capture 052 - Frontend Mentor - Results summary component_ - deft-bavarois-e458bc netlify app](https://user-images.githubusercontent.com/106422023/220606666-9a0bdab9-5da3-4be7-a9c2-c429e3aeefc4.png)
 
 ### Links
